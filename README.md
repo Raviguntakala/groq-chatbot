@@ -43,11 +43,3 @@ The chatbot can be used to assist with coding tasks such as debugging, code revi
 ## Configuration
 
 The chatbot can be configured to use either the Groq API or the OpenAI API for generating responses. To configure the chatbot, add your API keys to the  .env file.
-
-## Contributing
-
-Contributions to the chatbot are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository. If you would like to contribute code, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
